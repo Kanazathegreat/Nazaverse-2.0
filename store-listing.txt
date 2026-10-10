@@ -1,0 +1,14 @@
+App Name: Nazaverse
+Short Description: Aplikasi chat AI dengan kucing luar angkasa interaktif. Gunakan API key-mu sendiri.
+Long Description:
+Nazaverse adalah aplikasi pendamping AI yang cantik dan aman, dirancang untuk memberi Anda asisten pintar dan teman interaktif di satu tempat. Berlatar belakang observatorium galaksi, Anda akan ditemani oleh Nova, kucing luar angkasa yang bereaksi pada setiap aktivitas AI-mu secara real-time.
+
+Fitur Utama:
+- Bawa API Key Anda Sendiri: Terhubung langsung ke Google Gemini, OpenAI, atau penyedia kompatibel lainnya tanpa biaya langganan bulanan ke aplikasi. Anda hanya membayar apa yang Anda gunakan ke penyedia AI.
+- Dukungan Hermes Agent Lokal: Punya server Hermes Agent sendiri? Sambungkan dan nikmati antarmuka modern dengan dukungan tugas otonom, streaming cepat, dan kartu izin aksi langsung di Nazaverse.
+- Pet Interaktif: Kucing galaksi yang merespons ketukan Anda, melirik bintang jatuh, dan bereaksi saat AI berpikir, mencari web, atau menulis dokumen.
+- Privasi Penuh: Tanpa server perantara. Semua percakapan dan API key Anda disimpan secara aman di perangkat lokal Anda.
+- Personalisasi Karakter: Tentukan nama, sifat, dan kepribadian peliharaan Anda.
+
+Nazaverse gratis digunakan tanpa iklan! Anda bisa membuka varian kucing tambahan dan tema warna kosmik (seperti Aurora dan Supernova) melalui pembelian sekali bayar (one-time purchase).
+
